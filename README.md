@@ -32,5 +32,6 @@ console.log(job);
 // 停止构建某个任务
 await jenkins.stopJob('job_name')
 
+
 ```
 
